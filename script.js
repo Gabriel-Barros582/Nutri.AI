@@ -1,4 +1,3 @@
-const API_KEY = "AIzaSyDjz5igdlvwiNE1hBBIFq04Kbb7q0dthws";
 
 const form = document.getElementById("form");
 const resultado = document.getElementById("resultado");
